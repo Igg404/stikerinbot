@@ -29,7 +29,7 @@ global.APIKeys = { // APIKey nya disini
 
 // Sticker WM
 global.packname = '❤️'
-global.author = 'ariffb'
+global.author = 'dream'
 
 global.wait = '_*tunggu..*_'
 global.eror = '_*Server Error*_'
